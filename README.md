@@ -13,3 +13,4 @@
 # Insights da análise
 # Resultados
 ## Visualize a análise completa
+![Grafico 1](img/grafico1.png)
