@@ -13,4 +13,7 @@
 # Insights da análise
 # Resultados
 ## Visualize a análise completa
+https://gtkpxymc3gqqheak2pyujb.streamlit.app/
+
+
 ![Grafico 1](img/grafico1.png)
