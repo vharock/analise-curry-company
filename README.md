@@ -22,14 +22,16 @@ Marketplace, que fazer o intermédio do negócio entre três clientes
 principais: Restaurantes, entregadores e pessoas compradoras.
 Para acompanhar o crescimento desses negócios, o CEO gostaria
 de ver as seguintes métricas de crescimento:
+
 Do lado da empresa:
 1. Quantidade de pedidos por dia.
 2. Quantidade de pedidos por semana.
 3. Distribuição dos pedidos por tipo de tráfego.
 4. Comparação do volume de pedidos por cidade e tipo de
 tráfego.
-4. A quantidade de pedidos por entregador por semana.
-5. A localização central de cada cidade por tipo de tráfego.
+5. A quantidade de pedidos por entregador por semana.
+6. A localização central de cada cidade por tipo de tráfego.
+   
 Do lado do entregador:
 1. A menor e maior idade dos entregadores.
 2. A pior e a melhor condição de veículos.
@@ -38,6 +40,7 @@ Do lado do entregador:
 5. A avaliação média e o desvio padrão por condições climáticas.
 6. Os 10 entregadores mais rápidos por cidade.
 7. Os 10 entregadores mais lentos por cidade.
+   
 Do lado do restaurantes:
 1. A quantidade de entregadores únicos.
 2. A distância média dos resturantes e dos locais de entrega.
@@ -47,6 +50,7 @@ de pedido.
 5. O tempo médio e o desvio padrão de entrega por cidade e tipo
 de tráfego.
 6. O tempo médio de entrega durantes os Festivais.
+   
 O objetivo desse projeto é criar um conjunto de gráficos e/ou
 tabelas que exibam essas métricas da melhor forma possível para
 o CEO. 
@@ -67,6 +71,7 @@ refletem as 3 principais visões do modelo de negócio da empresa:
 2. Visão do crescimento dos restaurantes
 3. Visão do crescimento dos entregadores
 Cada visão é representada pelo seguinte conjunto de métricas.
+
 1. Visão do crescimento da empresa
 a. Pedidos por dia
 b. Porcentagem de pedidos por condições de trânsito
@@ -75,6 +80,7 @@ d. Pedidos por semana
 e. Quantidade de pedidos por tipo de entrega
 f. Quantidade de pedidos por condições de trânsito e tipo de
 cidade
+
 2. Visão do crescimento dos restaurantes
 a. Quantidade de pedidos únicos.
 b. Distância média percorrida.
@@ -84,7 +90,8 @@ dias normais.
 e. Tempo de entrega médio por cidade.
 f. Distribuição do tempo médio de entrega por cidade.
 g. Tempo médio de entrega por tipo de pedido.
-3. Visão do crescimento dos entregadores
+
+4. Visão do crescimento dos entregadores
 a. Idade do entregador mais velho e do mais novo.
 b. Avaliação do melhor e do pior veículo.
 c. Avaliação média por entregador.
