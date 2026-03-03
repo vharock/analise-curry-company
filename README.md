@@ -132,5 +132,3 @@ cresceu entre a semana 06 e a semana 13 do ano de 2022
 2. Criar novos filtros.
 3. Adicionar novas visões de negócio.
 
-
-![Grafico 1](img/grafico1.png)
